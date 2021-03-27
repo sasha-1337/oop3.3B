@@ -1,0 +1,7 @@
+﻿  Money.cpp
+  Pair.cpp
+  oop3_3_B.cpp
+  Создание кода...
+D:\Student\oop3.3B\oop3.3B\Money.cpp(67): warning C4172: возвращение адреса локальной или временной переменной : t
+D:\Student\oop3.3B\oop3.3B\Money.cpp(231): warning C4715: operator/: значение возвращается не при всех путях выполнения
+  oop3.3B.vcxproj -> D:\Student\oop3.3B\Debug\oop3.3B.exe
